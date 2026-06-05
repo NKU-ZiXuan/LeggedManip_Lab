@@ -40,6 +40,7 @@ Legged robots with manipulation arms present unique challenges — coordinating 
 | GO1-WX250S | Unitree Go1 | WX250S | <img src="./docs/imgs/go1_wx250s.png" alt="go1_wx250s" width="75"> |
 | GO2-ARX5 | Unitree Go2 | ARX-X5 | <img src="./docs/imgs/go2_arx5.png" alt="go2_arx5" width="75"> |
 | GO2-PIPER | Unitree Go2 | Agilex Piper | <img src="./docs/imgs/go2_piper.png" alt="go2_piper" width="75"> |
+| XG-PIPER | Zsibot-ZSL-1 | Agilex Piper | <img src="./docs/imgs/xg_piper.png" alt="xg_piper" width="75"> |
 | ... | ... | ... | ... |
 
 Each platform supports the following **2** training modes:

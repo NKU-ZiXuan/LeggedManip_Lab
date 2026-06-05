@@ -3,7 +3,7 @@
 </p>
 
 # LeggedManip Lab
- 
+
 [![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-5.1.0-blue.svg)](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
 [![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-main%20branch-blue.svg)](https://github.com/isaac-sim/IsaacLab/tree/main)
 [![RSL-RL](https://img.shields.io/badge/rsl--rl--lib-%3E%3D5.0.1-blue.svg)](https://github.com/leggedrobotics/rsl_rl)
@@ -40,8 +40,9 @@
 | GO1-WX250S | Unitree Go1 | WX250S | <img src="./docs/imgs/go1_wx250s.png" alt="go1_wx250s" width="75"> |
 | GO2-ARX5 | Unitree Go2 | ARX-X5 | <img src="./docs/imgs/go2_arx5.png" alt="go2_arx5" width="75"> |
 | GO2-PIPER | Unitree Go2 | Agilex Piper | <img src="./docs/imgs/go2_piper.png" alt="go2_piper" width="75"> |
+| XG-PIPER | Zsibot-ZSL-1 | Agilex Piper | <img src="./docs/imgs/xg_piper.png" alt="xg_piper" width="75"> |
 | ... | ... | ... | ... |
-每个平台支持以下 **2** 种训练模式：
+|每个平台支持以下 **2** 种训练模式：||||
 
 - **Flat** — 平坦地形上的移动操作
 - **WBC** — 全身控制，在[**混合坐标系**](docs/WBC_MIXED_FRAME_CN.md)下进行末端执行器位姿跟踪
